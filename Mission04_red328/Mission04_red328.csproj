@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Controllers\HomeController.cs" />
+    <Content Include="Models\GradeCalculatorModel.cs" />
+  </ItemGroup>
+
 </Project>
